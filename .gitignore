@@ -1,0 +1,21 @@
+*.*
+D/
+CIZUSCT/
+Drivers/
+MDK-ARM/
+SE/
+History/
+CUBE*/
+Project Logs for*/
+SEGGER_RTT/
+!.gitignore
+!.gitattributes
+!*.c
+!*.h
+!*.C
+!*.H
+!*.7z
+!*.md
+!*.PcbDoc
+!*.SchDoc
+!*.PrjPcb
